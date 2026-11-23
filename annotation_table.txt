@@ -1,0 +1,14 @@
+gene	annotation
+COL18A1	ligand
+VEGFA	target
+IFITM2	target
+ITGB3	receptor
+KDR	receptor
+CTNNB1	transcriptional regulator
+IRF4	transcriptional regulator
+PPARG	transcriptional regulator
+RUNX1	transcriptional regulator
+MAPK1	transcriptional regulator
+MAPK3	transcriptional regulator
+ROCK2	transcriptional regulator
+SRC	transcriptional regulator
